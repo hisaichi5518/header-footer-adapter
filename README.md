@@ -1,4 +1,4 @@
-# HeaderFooterAdapter for RecyclerView.
+# Simple HeaderFooterAdapter for RecyclerView.
 
 Add header/footer view to a RecyclerView.
 
