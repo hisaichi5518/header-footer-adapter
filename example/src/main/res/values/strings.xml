@@ -1,3 +1,30 @@
 <resources>
     <string name="app_name">HeaderFooterAdapterExample</string>
+    <string name="movies_view_header_label">This is a Header View for MoviesView</string>
+    <string name="movies_view_footer_label">This is a Footer View for MoviesView</string>
+
+    <string-array name="yuriko_movies">
+        <item>Midsummer Formula | Manatsu no Houteishiki (2013) - Misa Kishitani</item>
+        <item>A Story of Yonosuke | Yokomichi Yonosuke (2013) - Shoko Yosano</item>
+        <item>We Were There: Part 2 | Bokura ga Ita Kohen (2012) - Nanami Takahashi</item>
+        <item>We Were There: Part 1 | Bokura ga ita Zenpen (2012) - Nanami Takahashi</item>
+        <item>Himizu (2012) - Miki (girl in Teruhiko Iijima\'s apartment)</item>
+        <item>Robo-G | Robo Ji (2012) - Yoko Sasaki</item>
+        <item>Kaiji 2 (2011) - Yumi Ishida</item>
+        <item>Phone Call to the Bar | Tantei ha Bar ni Iru (2011) - Megumi Kondo</item>
+        <item>Cannonball Wedlock | Konzen Tokkyuu (2011) - Chie Ikeshi</item>
+        <item>GANTZ Perfect Answer (2011) - Tae Kojima</item>
+        <item>GANTZ (2011) - Tae Kojima</item>
+        <item>Camellia | Kamaellia (2010)</item>
+        <item>All to the Sea | Subete wa umi ni naru (2010)</item>
+        <item>Gravity\'s Clowns | Jyuryoku Pierrot (2009)</item>
+        <item>Snakes and Earrings | Hebi ni Piasu (2008) - Rui</item>
+        <item>Your Friends | Kimi no Tomodachi (2008)</item>
+        <item>Cyborg She | Boku no Kanojo wa Saibogu (2008) - Student in 22nd Century</item>
+        <item>A Girl in the Sunset | 夕映え少女 (2008)</item>
+        <item>Adrift in Tokyo | Tenten (2007) - Fufumi</item>
+        <item>Tokyo Rhapsody | Kayokyoku dayo jinsei wa (2007)</item>
+        <item>Shibuya Maruyama Story | Shibuya ku Maruyama cho (2007)</item>
+        <item>Noriko\'s Dinner Table | Noriko no shokutaku (2005) - Yuka Shimabara</item>
+    </string-array>
 </resources>
