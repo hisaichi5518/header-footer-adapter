@@ -9,7 +9,7 @@ Add header/footer view to a RecyclerView.
 # Synopsis
 
 ```java
-// Create Adapter with HeaderFooterAdapter.
+// Create a Adapter with HeaderFooterAdapter.
 class MovieAdapter extends HeaderFooterAdapter<ItemViewHolder> {
     private List<String> movies;
     private LayoutInflater layoutInflater;
@@ -40,7 +40,8 @@ class MovieAdapter extends HeaderFooterAdapter<ItemViewHolder> {
     }
 }
 
-// Add Header or Footer at your Activity/CustomView/Fragment
+
+// Add a Header/Footer view to created Adapter at your Activity/CustomView/Fragment
 MovieAdapter adapter = new MovieAdapter(layoutInflater);
 adapter.setHeaderView(headerView);
 adapter.setFooterView(footerView);
