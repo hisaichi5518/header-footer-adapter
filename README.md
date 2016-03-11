@@ -1,5 +1,7 @@
 # Simple HeaderFooterAdapter for RecyclerView.
 
+[![Circle CI](https://circleci.com/gh/hisaichi5518/header-footer-adapter.svg?style=svg)](https://circleci.com/gh/hisaichi5518/header-footer-adapter)
+
 Add header/footer view to a RecyclerView.
 
 ## Screenshot
