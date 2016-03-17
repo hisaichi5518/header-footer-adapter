@@ -69,7 +69,7 @@ allprojects {
 
 ```
 dependencies {
-    compile 'com.github.hisaichi5518:header-footer-adapter:v0.0.1'
+    compile 'com.github.hisaichi5518:header-footer-adapter:v0.0.2'
 }
 ```
 
